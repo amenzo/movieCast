@@ -1,0 +1,13 @@
+ffmpeg -loop 1 -i nobody/mereged0.jpg -c:v libx264 -t 2 -pix_fmt yuv420p -vf scale=1200:720 out0s.mp4
+ffmpeg -loop 1 -i nobody/mereged1.jpg -c:v libx264 -t 2 -pix_fmt yuv420p -vf scale=1200:720 out1s.mp4
+ffmpeg -loop 1 -i nobody/mereged2.jpg -c:v libx264 -t 2 -pix_fmt yuv420p -vf scale=1200:720 out2s.mp4
+ffmpeg -loop 1 -i nobody/mereged3.jpg -c:v libx264 -t 2 -pix_fmt yuv420p -vf scale=1200:720 out3s.mp4
+ffmpeg -loop 1 -i nobody/mereged4.jpg -c:v libx264 -t 2 -pix_fmt yuv420p -vf scale=1200:720 out4s.mp4
+ffmpeg -loop 1 -i nobody/mereged5.jpg -c:v libx264 -t 2 -pix_fmt yuv420p -vf scale=1200:720 out5s.mp4
+ffmpeg -loop 1 -i nobody/mereged6.jpg -c:v libx264 -t 2 -pix_fmt yuv420p -vf scale=1200:720 out6s.mp4
+ffmpeg -loop 1 -i nobody/mereged7.jpg -c:v libx264 -t 2 -pix_fmt yuv420p -vf scale=1200:720 out7s.mp4
+ffmpeg -loop 1 -i nobody/mereged8.jpg -c:v libx264 -t 2 -pix_fmt yuv420p -vf scale=1200:720 out8s.mp4
+ffmpeg -loop 1 -i nobody/mereged9.jpg -c:v libx264 -t 2 -pix_fmt yuv420p -vf scale=1200:720 out9s.mp4
+ffmpeg -loop 1 -i nobody/mereged10.jpg -c:v libx264 -t 2 -pix_fmt yuv420p -vf scale=1200:720 out10s.mp4
+ffmpeg -loop 1 -i nobody/mereged11.jpg -c:v libx264 -t 2 -pix_fmt yuv420p -vf scale=1200:720 out11s.mp4
+ffmpeg -loop 1 -i nobody/mereged12.jpg -c:v libx264 -t 2 -pix_fmt yuv420p -vf scale=1200:720 out12s.mp4
